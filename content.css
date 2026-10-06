@@ -1,0 +1,9 @@
+#root {
+  display: flex;
+  gap: 10px;
+}
+
+.block {
+  background: #257db8;
+  border: 1px solid black;
+}
